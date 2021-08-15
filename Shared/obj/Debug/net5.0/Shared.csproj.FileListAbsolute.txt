@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\bin\Debug\net5.0\Shared.deps.json
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\bin\Debug\net5.0\Shared.dll
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\bin\Debug\net5.0\ref\Shared.dll
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\bin\Debug\net5.0\Shared.pdb
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\Shared.dll
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\ref\Shared.dll
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\Shared.pdb
+C:\Users\HP\source\repos\RabbitMQWeb.ExcelCreate\Shared\obj\Debug\net5.0\Shared.csproj.AssemblyReference.cache
